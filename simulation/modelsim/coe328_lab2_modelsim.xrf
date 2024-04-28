@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/chanu/Documents/coe328/lab2/lab2_vhdl.vhd
+source_file = 1, C:/Users/chanu/Documents/coe328/lab2/lab2_block.bdf
+source_file = 1, C:/Users/chanu/Documents/coe328/lab2/lab2_wave.vwf
+source_file = 1, C:/Users/chanu/Documents/coe328/lab2/db/coe328_lab2.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = lab2_vhdl
+instance = comp, \x2~I , x2, lab2_vhdl, 1
+instance = comp, \x0~I , x0, lab2_vhdl, 1
+instance = comp, \x1~I , x1, lab2_vhdl, 1
+instance = comp, \x3~I , x3, lab2_vhdl, 1
+instance = comp, \f~0 , f~0, lab2_vhdl, 1
+instance = comp, \f~I , f, lab2_vhdl, 1

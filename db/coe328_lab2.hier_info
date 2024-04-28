@@ -1,0 +1,16 @@
+|lab2_vhdl
+x1 => f~2.IN0
+x1 => f~5.IN0
+x1 => f~8.IN0
+x2 => f~0.IN0
+x2 => f~9.IN1
+x2 => f~2.IN1
+x3 => f~1.IN1
+x3 => f~6.IN1
+x3 => f~3.IN1
+x0 => f~8.IN1
+x0 => f~0.IN1
+x0 => f~5.IN1
+f <= f~10.DB_MAX_OUTPUT_PORT_TYPE
+
+
